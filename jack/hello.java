@@ -3,5 +3,8 @@ public class hello{
        
        
        }
+       public static void gouhaitao(){
+       返回一个狗海涛
+       }
 
 }
